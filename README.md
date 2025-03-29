@@ -9,6 +9,8 @@ The HR and HRV variables were evaluated in terms of time and frequency using a w
 ### Conclusion
 There was a good agreement and moderate to strong correlations among all analysed variables. The biases were low, except for the low frequency/high frequency measures. Moreover, the difference between the samples was small to moderate. The results of this study corroborate the use of HRVCam for measuring HR and HRV.
 
+![HRVCam Validation Process](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ehjdh/3/1/10.1093_ehjdh_ztab099/2/m_ztab099f3.jpeg?Expires=1745969751&Signature=TTtBxdKnzIxc-wUFojmeABeFn3DC8mCL5aUfRQDKt0oID7VvYdJ5-nnmfE4veiVkCQyyiZaSy14USUppTtp6H5AYTGPlQD6pqZb5Pjkgb0KDHGIGhu1E07Px52RxJ5YNwGw72DAY9ObT~SCAF0vilWZoBuwh0CJLiHS2J4OvQuNjwy5sP1Q6l4SNmUJf0HApxg0~dC4aZ-rR~4C1o~Nv6ZII38hlT5sPSHfXPVoJltIk8BxNHr6-uGyUHZAjGTaOC5Im6KwTxTMK~K-tw2eKmS1UUb7oKItDdPqQyiIyRByQpStn2FzTonBqu2e-PMHYlxUPsZkx3idlM2R4wPCNPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
 ## Publications
 
 - [Validation study of the use of the HRVCAM software for the evaluation of heart rate and heart rate variability at rest](https://academic.oup.com/ehjdh/article/3/1/98/6446032)
@@ -18,6 +20,10 @@ There was a good agreement and moderate to strong correlations among all analyse
 - [Video-based Photoplethysmography and Machine Learning Algorithms to Achieve Pulse Wave Velocity](https://www.ijbttjournal.org/archives/ijbtt-v11i1p602)
   - Authors: Pedro Henrique de Brito Souza, Israel Machado Brito Souza, Symone Gomes Soares Alcalá, Priscila Valverde de Oliveira Vitorino, Adson Ferreira da Rocha, Talles Marcelo Gonçalves de Andrade Barbosa
   - International Journal of Biotech Trends and Technology (IJBTT), 2021
+
+- [Método para estimação da frequência cardíaca e variabilidade cardíaca com base em fotopletismografia por vídeo](http://repositorio.unb.br/handle/10482/36789)
+  - Author: Pedro Henrique de Brito Souza, Adson Ferreira da Rocha
+  - Biomedical Engineering Master's Degree Thesis - University of Brasília, 2019
  
 - [Contributions to the Acquisition of Heart Rate and Photoplethysmography Signal Using a Real-Time Software](https://ieeexplore.ieee.org/document/8419379)
   - Authors: Pedro Henrique de Brito Souza, Israel Machado Brito Souza, Tharcis Pereira Sacramento, Patrícia Cândida de Matos Lima Martins, Priscila Valverde de Oliveira Vitorino, Gabrielly Craveiro Ramos, Talles Marcelo Gonçalves de Andrade Barbosa, Adson Ferreira da Rocha
